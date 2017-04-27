@@ -6,7 +6,18 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>company__c.design__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Student__c</members>
+        <members>company__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <name>Profile</name>
     </types>
 </Package>
