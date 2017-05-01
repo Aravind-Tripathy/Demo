@@ -7,6 +7,7 @@
     </types>
     <types>
         <members>Student__c.email__c</members>
+        <members>Vehicle__c.Model__c</members>
         <members>company__c.design__c</members>
         <name>CustomField</name>
     </types>
