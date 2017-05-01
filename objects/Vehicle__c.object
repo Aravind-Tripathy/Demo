@@ -52,6 +52,17 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Engine__c</fullName>
+        <externalId>false</externalId>
+        <label>Engine</label>
+        <length>200</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Model__c</fullName>
         <externalId>false</externalId>
         <inlineHelpText>Model123456</inlineHelpText>
