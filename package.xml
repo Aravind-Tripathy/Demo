@@ -12,7 +12,9 @@
     </types>
     <types>
         <members>Student__c</members>
+        <members>Vehicle__c</members>
         <members>company__c</members>
+        <members>employee__c</members>
         <name>CustomObject</name>
     </types>
     <types>
