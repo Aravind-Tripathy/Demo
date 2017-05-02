@@ -54,6 +54,7 @@
     <fields>
         <fullName>Engine__c</fullName>
         <externalId>false</externalId>
+        <inlineHelpText>Engine123</inlineHelpText>
         <label>Engine</label>
         <length>200</length>
         <required>false</required>
